@@ -1,0 +1,1 @@
+Neste projeto foram apresentados e aplicados alguns conceitos necessarios para uma análise exploratoria de dados utilizando python, pandas, numpy e matplotlib.
